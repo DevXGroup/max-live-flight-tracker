@@ -167,10 +167,7 @@ Contributions are welcome! Feel free to:
 
 ## 👨‍💻 Built By
 
-**Devx Group LLC**
-- Professional software solutions
-- Real-time data visualization
-- Modern web applications
+Max Sheikhizadeh - [DevX Group LLC]
 
 ---
 
